@@ -208,3 +208,6 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,python
+web_static/images/icon_bath.png
+web_static/images/icon_bed.png
+web_static/images/icon_group.png
